@@ -1,3 +1,20 @@
-Fliejlqajl
-lajflasjfljfa
-ak;fak;flk;kda
+[Paper Name] Adversarial Multi-task Learning for Text Classification
+1 What is multi-tasking?
+Multi-task learning is an effective approach to improve the performance of a single task with the help of other related tasks.
+
+Neural-based models for multi-task learning have become very popular, ranging from computer vision (Misra et al., 2016; Zhang et al., 2014) 
+to natural language processing (Collobert and Weston, 2008; Luong et al., 2015), since they provide a convenient way of combining 
+information from multiple tasks.
+2 The advantage
+Multi-task learning provide a convenient way of combining information from multiple tasks.
+3 The disadvantage
+
+Neural network models have shown their promising opportunities for multi-task learning, which focus on learning the shared layers to 
+extract the common and task-invariant features.
+However, in most existing approaches, the extracted shared features are prone to be contaminated by task-specific features or the 
+noise brought by other tasks.
+
+In this paper, we propose an adversarial multi-task learning frame-work, alleviating the shared and private latent feature spaces 
+from interfering with each other.
+We show that the shared knowledge learned by our proposed model can be regarded as off-the-shelf knowledge and easily transferred 
+to new tasks.
