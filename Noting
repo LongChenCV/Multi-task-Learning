@@ -18,3 +18,5 @@ In this paper, we propose an adversarial multi-task learning frame-work, allevia
 from interfering with each other.
 We show that the shared knowledge learned by our proposed model can be regarded as off-the-shelf knowledge and easily transferred 
 to new tasks.
+
+Modify class name in VOCinit.m
